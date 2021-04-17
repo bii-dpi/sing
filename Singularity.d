@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: nvidia/cuda:10.1-cudnn7-runtime-ubuntu18.04
+From: nvidia/cuda:10.1-cudnn8-runtime-ubuntu18.04
 
 %post
     # Downloads the latest package lists (important).
